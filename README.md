@@ -10,7 +10,7 @@ This repository contains the PSIM simulation file used and MATLAB CODE for Figur
 1. PMQBB_Simulation File requires PSIM Professional 2024.0.0.2471
 2. MATLAB R2022b or later.
    
-# Simulation files Design Specifications: 
+# Simulation file Design Specifications: 
 Rating Simulation Details Input voltage 40 V PSIM Platform Time Step 10-7 sec Output Voltage 400 V Power 300 W Inductors L1=1 mH, L2=3 mH Capacitors C0=100 μF, C1=22 μF 
 Diodes D0, D1 (FFSH2065B). Switches S1, S2 (NVHL027N65S3F).
 
@@ -31,4 +31,5 @@ Open `PMQBB_Simulation File` in PSIM Professional 2024.0.0.2471
   
 # Contact:
 For questions or replication of results: 
+
 pr22eer1r08@student.nitw.ac.in

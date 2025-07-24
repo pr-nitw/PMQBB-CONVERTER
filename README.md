@@ -4,9 +4,9 @@
 # Authors: 
 P. Raviteja, Graduate Student Member, IEEE, B.L. Narasimharaju, Senior Member, IEEE, S.V.K. Naresh, Member, IEEE.
 # About Repository:
-This repository contains the PSIM simulation file used and MATLAB CODE for the transfer function in our paper titled "A P-type Modified Quadratic gain Buck-Boost Converter for DC Microgrids".
+This repository contains the PSIM simulation file used and MATLAB CODE for Figures 8(a)- 8(e) in our paper titled "A P-type Modified Quadratic gain Buck-Boost Converter for DC Microgrids".
 
-# Requirements: 
+# Software Requirements: 
 1. PMQBB_Simulation File requires PSIM Professional 2024.0.0.2471
 2. MATLAB R2022b or later.
    
@@ -22,6 +22,13 @@ Open `PMQBB_Simulation File` in PSIM Professional 2024.0.0.2471
 - Open "MATLAB R2022b or later" version
 - Run the code
 - Figures concerning the code will be opened in a new window.
+- Figures from 8(a) to 8(e) can be generated using the given matlab codes. Figures 10-13 demonstrate the experimental work.
+- EIvsD- Effectiveness versus Duty
+- GvsD - Gain versus Duty
+- NSVSvsD- Normalized switch voltage stress versus Duty
+- PVSvsD- Peak Voltage Stress versus Duty
+- TCVSvsD- Total Capacitor Voltage Stress versus Duty
+  
 # Contact:
 For questions or replication of results: 
 pr22eer1r08@student.nitw.ac.in
